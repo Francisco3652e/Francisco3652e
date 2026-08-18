@@ -18,7 +18,7 @@ Estudiante de último año de Ingeniería en Sistemas y Redes Informáticas, enf
 
 #### 📌 Proyecto destacado
 
-**[Despliegue de infraestructura web con Nginx en AWS]([https://github.com/Francisco3652e/nginx-aws-ssl-lab.git])**
+**[Despliegue de infraestructura web con Nginx en AWS](https://github.com/Francisco3652e/nginx-aws-ssl-lab.git)**
 Despliegue de servidores Linux, configuración de Nginx con múltiples sitios, SSL/TLS con Certbot y automatización de renovación de certificados.
 
 #### 📫 Contáctame
