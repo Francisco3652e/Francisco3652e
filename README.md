@@ -23,4 +23,4 @@ Despliegue de servidores Linux, configuración de Nginx con múltiples sitios, S
 
 #### 📫 Contáctame
 
-[LinkedIn](www.linkedin.com/in/francisco-lemus-377634375) · [Email](lemuscruzfranciscojavier@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/francisco-lemus-377634375) · [Email](mailto:lemuscruzfranciscojavier@gmail.com)
