@@ -5,7 +5,7 @@ Estudiante de último año de Ingeniería en Sistemas y Redes Informáticas, enf
 - 🔭 Actualmente construyendo laboratorios prácticos de infraestructura (Nginx, AWS, SSL/TLS, Docker)
 - 📘 Preparando la certificación **AWS Certified Cloud Practitioner**
 - 🌱 Aprendiendo inglés técnico y profundizando en automatización/DevOps
-- 💬 Pregúntame sobre: Linux, Nginx, SSH, AWS (EC2/Route 53,ELB,Lambda), Certbot
+- 💬 Pregúntame sobre: Linux, Nginx, SSH, AWS 
 
 #### 🛠️ Tecnologías
 
