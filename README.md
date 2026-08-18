@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hola, soy Francisco 👋
 
-<!--
-**Francisco3652e/Francisco3652e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último año de Ingeniería en Sistemas y Redes Informáticas, enfocado en infraestructura TI, administración de servidores Linux y entornos Cloud.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente construyendo laboratorios prácticos de infraestructura (Nginx, AWS, SSL/TLS, Dockerx)
+- 📘 Preparando la certificación **AWS Certified Cloud Practitioner**
+- 🌱 Aprendiendo inglés técnico y profundizando en automatización/DevOps
+- 💬 Pregúntame sobre: Linux, Nginx, SSH, AWS (EC2/Route 53), Certbot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tecnologías
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+#### 📌 Proyecto destacado
+
+**[Despliegue de infraestructura web con Nginx en AWS](enlace-al-repo-cuando-lo-subas)**
+Despliegue de servidores Linux, configuración de Nginx con múltiples sitios, SSL/TLS con Certbot y automatización de renovación de certificados.
+
+#### 📫 Contáctame
+
+[LinkedIn](tu-link-de-linkedin) · [Email](lemuscruzfranciscojavier@gmail.com)
